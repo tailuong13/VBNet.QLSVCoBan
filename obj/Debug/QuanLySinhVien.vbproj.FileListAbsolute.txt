@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\ADMIN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\ADMIN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.mainForm.resources
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.xml
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.Dashboard.resources
+C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.DanhSach.resources
