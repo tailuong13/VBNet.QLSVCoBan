@@ -12,3 +12,17 @@ C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.xml
 C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
 C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.Dashboard.resources
 C:\Users\ADMIN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.DanhSach.resources
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.AssemblyReference.cache
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.DanhSach.resources
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.Dashboard.resources
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.mainForm.resources
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.Resources.resources
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.GenerateResource.cache
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.CoreCompileInputs.cache
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.xml
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

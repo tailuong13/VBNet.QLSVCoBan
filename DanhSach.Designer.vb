@@ -51,9 +51,10 @@ Partial Class DanhSach
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(250, 178)
+        Me.DataGridView1.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.DataGridView1.Location = New System.Drawing.Point(0, 107)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(312, 131)
+        Me.DataGridView1.Size = New System.Drawing.Size(800, 343)
         Me.DataGridView1.TabIndex = 1
         '
         'DanhSach

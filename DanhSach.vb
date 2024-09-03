@@ -6,6 +6,7 @@ Public Class DanhSach
     Private Sub DanhSach_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim query As String = "SELECT * FROM SinhVien"
         Try
+            Conn.connection.Open()
             Dim adapter As New SqlDataAdapter(query, Conn.connection)
             Dim table As New DataTable()
             adapter.Fill(table)
