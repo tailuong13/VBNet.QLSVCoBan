@@ -26,3 +26,4 @@ C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.vbproj.CoreC
 C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
 C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.xml
 C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Tailuong\Projects\VB.Net\QuanLySinhVien\obj\Debug\QuanLySinhVien.KetQua.resources

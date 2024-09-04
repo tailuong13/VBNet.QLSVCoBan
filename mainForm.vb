@@ -5,6 +5,8 @@ Public Class mainForm
     Dim Conn As New Connection()
     Private Sub mainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Conn.Connect()
+        Dim form As New Dashboard()
+        OpenChildForm(form)
     End Sub
 
     Private Sub OpenChildForm(form As Form)
@@ -28,6 +30,11 @@ Public Class mainForm
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim form As New DanhSach()
+        OpenChildForm(form)
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Dim form As New KetQua()
         OpenChildForm(form)
     End Sub
 End Class

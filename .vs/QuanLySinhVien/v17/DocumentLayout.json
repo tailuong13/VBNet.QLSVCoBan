@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:mainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\danhsach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:danhsach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:mainForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\danhsach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:danhsach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\DanhSach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:DanhSach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\DanhSach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:DanhSach.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\ketqua.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:ketqua.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|c:\\tailuong\\projects\\vb.net\\quanlysinhvien\\ketqua.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:ketqua.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:Dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|c:\\tailuong\\projects\\vb.net\\quanlysinhvien\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D312EA84-99BA-493E-B35D-4252B0D85771}|QuanLySinhVien.vbproj|solutionrelative:connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +58,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "KetQua.vb",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\KetQua.vb",
+              "RelativeDocumentMoniker": "KetQua.vb",
+              "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\KetQua.vb",
+              "RelativeToolTip": "KetQua.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T05:54:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KetQua.vb [Design]",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\KetQua.vb",
+              "RelativeDocumentMoniker": "KetQua.vb",
+              "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\KetQua.vb [Design]",
+              "RelativeToolTip": "KetQua.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T05:53:42.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Connection.vb",
               "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Connection.vb",
               "RelativeDocumentMoniker": "Connection.vb",
@@ -75,20 +96,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DanhSach.vb",
               "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\DanhSach.vb",
               "RelativeDocumentMoniker": "DanhSach.vb",
               "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\DanhSach.vb",
               "RelativeToolTip": "DanhSach.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwGwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-03T14:05:20.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DanhSach.vb [Design]",
               "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\DanhSach.vb",
               "RelativeDocumentMoniker": "DanhSach.vb",
@@ -101,52 +122,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Dashboard.vb",
-              "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb",
-              "RelativeDocumentMoniker": "Dashboard.vb",
-              "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb",
-              "RelativeToolTip": "Dashboard.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-03T13:37:01.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Dashboard.vb [Design]",
               "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb",
               "RelativeDocumentMoniker": "Dashboard.vb",
               "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\Dashboard.vb [Design]",
               "RelativeToolTip": "Dashboard.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-03T12:35:57.083Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "mainForm.vb",
-              "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb",
-              "RelativeDocumentMoniker": "mainForm.vb",
-              "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb",
-              "RelativeToolTip": "mainForm.vb",
-              "ViewState": "AQIAAAIAAAAAAAAAAAASwB4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-03T12:01:47.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "mainForm.vb [Design]",
-              "DocumentMoniker": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb",
-              "RelativeDocumentMoniker": "mainForm.vb",
-              "ToolTip": "C:\\Tailuong\\Projects\\VB.Net\\QuanLySinhVien\\mainForm.vb [Design]",
-              "RelativeToolTip": "mainForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-03T12:01:07.305Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-03T12:35:57.083Z"
             }
           ]
         }
